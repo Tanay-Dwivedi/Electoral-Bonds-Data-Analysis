@@ -33,9 +33,13 @@
 
 **Observation:** This line plot helps in identifying any seasonal patterns or trends in purchases over the months.
 
-**5. Yearly Purchase Trends (Bar Plot):**
-   **Aim:** To analyze the trend of purchases over different years.
-   **Observation:** This bar plot provides insights into the overall trend of purchases year by year, highlighting any significant changes or growth.
+### Yearly Purchase Trends:
+
+**Aim:** To analyze the trend of purchases over different years.
+
+![Yearly Purchase Trends](image-3.png)
+
+**Observation:** This bar plot provides insights into the overall trend of purchases year by year, highlighting any significant changes or growth.
 
 **6. Boxplot of Denominations by Year (Box Plot):**
    **Aim:** To compare the distribution of denominations purchased each year.
