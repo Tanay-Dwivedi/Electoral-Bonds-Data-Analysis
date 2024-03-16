@@ -11,6 +11,14 @@ These analyses aim to provide a comprehensive understanding of purchasing dynami
 
 ## Identify the Data
 
+[Dataset](https://github.com/Tanay-Dwivedi/Electoral-Bonds-Data-Analysis/blob/master/electroral_bonds_buyer_data.csv)
+
+The dataset comprises records detailing **transactions**, including **date of purchase**, **purchaser names**, and **denomination**, as well as temporal information such as **Year** and **Month**. The objective is to glean insights into purchasing behavior and trends through comprehensive analysis and visualization techniques.
+
+-----
+
+## Results & Inference
+
 ### Total Purchases Over Time:
 
 **Aim:** To visualize the trend of total purchases made over time.
@@ -58,12 +66,6 @@ These analyses aim to provide a comprehensive understanding of purchasing dynami
 ![Heatmap of Purchases by Month and Year](image-5.png)
 
 **Observation:** This heatmap provides a visual representation of how purchases vary across different months and years.
-
------
-
-## Results & Inference
-
-
 
 -----
 
