@@ -3,7 +3,9 @@
 
 ## Problem Statement
 
-
+The problem statement revolves around **analyzing purchasing behavior** based on a dataset containing information about **date of purchase**, **purchaser names**, **denomination**, **Year**, and **Month**. The objective is to **gain insights** into various aspects of purchasing patterns through **data visualization** using **matplotlib** and **seaborn**.
+This includes exploring **total purchases over time** to identify trends, examining the **distribution of denominations** purchased, comparing **total purchases by purchaser** to identify key customers, analyzing **monthly and yearly purchase trends** to discern any seasonal or annual patterns, and investigating the **relationship** between **numerical variables** such as denomination, year, and month through a **pairplot**.
+These analyses aim to provide a comprehensive understanding of purchasing dynamics, aiding in strategic decision-making and optimization of sales strategies.
 
 -----
 
