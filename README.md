@@ -41,17 +41,13 @@
 
 **Observation:** This bar plot provides insights into the overall trend of purchases year by year, highlighting any significant changes or growth.
 
-**6. Boxplot of Denominations by Year (Box Plot):**
-   **Aim:** To compare the distribution of denominations purchased each year.
-   **Observation:** This box plot helps in identifying any differences or similarities in the distribution of denominations across different years.
+### Total Purchases by Month:
 
-**7. Denomination Distribution by Purchaser (Violin Plot):**
-   **Aim:** To visualize the distribution of denominations purchased by each purchaser.
-   **Observation:** This violin plot helps in comparing the distribution of denominations among different purchasers, highlighting any variations or patterns.
+**Aim:** To compare the total purchases made in each month.
 
-**8. Total Purchases by Month (Bar Plot):**
-   **Aim:** To compare the total purchases made in each month.
-   **Observation:** This bar plot allows us to identify the months with the highest and lowest total purchases.
+![Total Purchases by Month](image-4.png)
+
+**Observation:** This bar plot allows us to identify the months with the highest and lowest total purchases.
 
 **9. Heatmap of Purchases by Month and Year (Heatmap):**
    **Aim:** To explore the total purchases made in each month for each year.
