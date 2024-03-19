@@ -49,13 +49,13 @@
 
 **Observation:** This bar plot allows us to identify the months with the highest and lowest total purchases.
 
-**9. Heatmap of Purchases by Month and Year (Heatmap):**
-   **Aim:** To explore the total purchases made in each month for each year.
-   **Observation:** This heatmap provides a visual representation of how purchases vary across different months and years.
+### Heatmap of Purchases by Month and Year:
 
-**10. Pairplot of Numerical Variables (Pairplot):**
-    **Aim:** To explore relationships between numerical variables.
-    **Observation:** This pairplot helps in identifying any correlations or patterns between the 'denomination', 'Year', and 'Month' variables.
+**Aim:** To explore the total purchases made in each month for each year.
+
+![Heatmap of Purchases by Month and Year](image-5.png)
+
+**Observation:** This heatmap provides a visual representation of how purchases vary across different months and years.
 
 -----
 
