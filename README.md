@@ -1,4 +1,7 @@
 # Electoral Bonds Data Analysis
+
+![Electoral Bonds Data Analysis](image-6.png)
+
 -----
 
 ## Problem Statement
